@@ -1,0 +1,24 @@
+{
+  "name": "OKTmoon Hosted List",
+  "timestamp": "2021-05-14T16:57:10.982Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 24
+  },
+  "tags": {},
+  "keywords": [
+    "OKTmoon",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 66,
+      "address":"0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
+      "name": "FIL",
+      "symbol": "FIL",
+      "decimals": 18,
+      "logoURI": https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png""
+    }
+  ]
+}
