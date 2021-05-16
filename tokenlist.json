@@ -17,7 +17,7 @@
       "address":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
     }
   ]
