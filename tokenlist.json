@@ -1,6 +1,11 @@
 {
   "name": "OKTmoon Hosted List",
   "timestamp": "2021-05-14T16:57:10.982Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 25
+  },
   "tags": {},
   "keywords": [
     "OKTmoon",
